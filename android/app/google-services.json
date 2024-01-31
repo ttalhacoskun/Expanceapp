@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996450626741",
+    "project_id": "expanceapp-22ea2",
+    "storage_bucket": "expanceapp-22ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996450626741:android:9e1c44ce80d067ab6962fc",
+        "android_client_info": {
+          "package_name": "com.example.expance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk8CYdeZgE1CUdeEcsB_o3ux7TQQd-cg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
